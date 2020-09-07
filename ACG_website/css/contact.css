@@ -1,0 +1,241 @@
+#manhua {
+    position: absolute;
+    width: 100%;
+    height: 906px;
+    z-index: 1;
+    left: 0px;
+    top: 0px;
+}
+
+#manhua #daohanglan {
+    height: 70px;
+    width: 100%;
+    background-color: #021091;
+}
+
+#manhua #daohanglan #daohangzhongbu {
+    height: 70px;
+    width: 1050px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#manhua #daohanglan #daohangzhongbu #logo {
+    height: 32px;
+    width: 150px;
+    padding-top: 19px;
+    padding-left: 50px;
+    float: left;
+}
+
+#manhua #daohanglan #daohangzhongbu #my-daohanglan {
+    height: 60px;
+    width: 700px;
+    padding-top: 5px;
+    padding-left: 85px;
+    float: left;
+    position: absolute;
+    margin-left: 200px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+}
+
+#manhua #daohanglan #daohangzhongbu #my-daohanglan ul li {
+    /*导航栏相关定义*/
+    width: 105px;
+    height: 49px;
+    text-align: center;
+    line-height: 35px;
+    float: left;
+    list-style: none;
+    margin-left: 0px;
+    padding: 0px;
+    list-style-type: none;
+    background: #021091;
+
+
+}
+
+#manhua #banner {
+    height: 400px;
+    width: 1050px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+    background-image: url(../images/banner05.jpg);
+}
+
+#manhua #daohanglan #daohangzhongbu #my-daohanglan ul li ul {
+    display: none;
+    margin-left: 0px;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+#manhua #daohanglan #daohangzhongbu #my-daohanglan ul li:hover ul {
+    display: block;
+}
+
+#manhua #daohanglan #daohangzhongbu #my-daohanglan ul li:hover {
+    /*导航栏高亮*/
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #ef2300;
+}
+
+/*横向导航结束*/
+
+
+#manhua #tuijian {
+    height: 270px;
+    width: 1050px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    font-family: "微软雅黑";
+    font-size: 15px;
+    color: #333;
+    text-align: center;
+    line-height: 30px;
+    border: 1px solid #f1f1f1;
+    background-color: #f8f8f8;
+}
+
+#manhua #tuijian #tuijian01 {
+    float: left;
+    height: 270px;
+    width: 290px;
+}
+
+#manhua #tuijian #tuijian01 #tuijiantu {
+    height: 204px;
+}
+
+#manhua #tuijian #tuijian01 #tuijianwenzi {
+    height: 66px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    color: #282828;
+    width: 290px;
+}
+
+#manhua #tuijian #tuijian02 {
+    float: left;
+    height: 270px;
+    width: 290px;
+    margin-left: 90px;
+}
+
+#manhua #tuijian #tuijian02 #tuijiantu2 {
+    height: 204px;
+}
+
+#manhua #tuijian #tuijian02 #tuijianwenzi2 {
+    height: 66px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    color: #282828;
+    width: 290px;
+}
+
+a.blue:link {
+    color: #179acc;
+    text-decoration: none;
+}
+
+a.blue:visited {
+    text-decoration: none;
+    color: #179acc;
+}
+
+a.blue:hover {
+    text-decoration: none;
+    color: #ef2300;
+}
+
+a.blue:active {
+    text-decoration: none;
+}
+
+a:link {
+    color: #FFF;
+    text-decoration: none;
+}
+
+a.black:link {
+    color: #000000;
+    text-decoration: none;
+}
+
+a.black:visited {
+    text-decoration: none;
+    color: #000000;
+}
+
+a.black:hover {
+    text-decoration: none;
+    color: #ef2300;
+}
+
+a.black:active {
+    text-decoration: none;
+}
+
+a:link {
+    color: #FFF;
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #FFF;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ef2300;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+#manhua #xinwen {
+    height: 360px;
+    width: 1050px;
+    margin-top: 35px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #fcfcfc;
+    border: 1px solid #f1f1f1;
+}
+
+#manhua #xinwen #xinwenzi {
+    float: left;
+    height: 280px;
+    width: 420px;
+    margin-top: 40px;
+    margin-left: 80px;
+    font-family: "微软雅黑";
+    font-size: 13px;
+    color: #000;
+    line-height: 39px;
+}
+
+#manhua #dibu {
+    background-color: #021091;
+    height: 80px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+#manhua #dibu #dibuzhongbu {
+    height: 80px;
+    width: 1050px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: "微软雅黑";
+    font-size: 12px;
+    color: #FFF;
+}

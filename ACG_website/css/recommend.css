@@ -1,0 +1,212 @@
+#yijia {
+    position: absolute;
+    width: 100%;
+    height: 903px;
+    z-index: 1;
+    left: 0px;
+    top: 0px;
+}
+
+#yijia #daohanglan {
+    height: 70px;
+    width: 100%;
+    background-color: #021091;
+}
+
+#yijia #daohanglan #daohangzhongbu {
+    height: 70px;
+    width: 1050px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#yijia #daohanglan #daohangzhongbu #logo {
+    height: 32px;
+    width: 150px;
+    padding-top: 19px;
+    padding-left: 50px;
+    float: left;
+}
+
+#yijia #daohanglan #daohangzhongbu #my-daohanglan {
+    height: 60px;
+    width: 700px;
+    padding-top: 5px;
+    padding-left: 85px;
+    float: left;
+    position: absolute;
+    margin-left: 200px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+}
+
+#yijia #daohanglan #daohangzhongbu #my-daohanglan ul li {
+    /*导航栏相关定义*/
+    width: 105px;
+    height: 49px;
+    text-align: center;
+    line-height: 35px;
+    float: left;
+    list-style: none;
+    margin-left: 0px;
+    padding: 0px;
+    list-style-type: none;
+    background: #021091;
+
+
+}
+
+#yijia #banner {
+    height: 518px;
+    width: 1050px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+    background-image: url(../images/banner04.jpg);
+    font-family: "微软雅黑";
+    font-size: 16px;
+    color: #FFF;
+    text-align: center;
+    line-height: 50px;
+}
+
+#yijia #daohanglan #daohangzhongbu #my-daohanglan ul li ul {
+    display: none;
+    margin-left: 0px;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+#yijia #daohanglan #daohangzhongbu #my-daohanglan ul li:hover ul {
+    display: block;
+}
+
+#yijia #daohanglan #daohangzhongbu #my-daohanglan ul li:hover {
+    /*导航栏高亮*/
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #ef2300;
+}
+
+/*横向导航结束*/
+
+
+#yijia #tuijian {
+    height: 270px;
+    width: 1050px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    color: #000;
+    line-height: 30px;
+    background-color: #fff9fa;
+}
+
+a.blue:link {
+    color: #179acc;
+    text-decoration: none;
+}
+
+a.blue:visited {
+    text-decoration: none;
+    color: #179acc;
+}
+
+a.blue:hover {
+    text-decoration: none;
+    color: #ef2300;
+}
+
+a.blue:active {
+    text-decoration: none;
+}
+
+a:link {
+    color: #FFF;
+    text-decoration: none;
+}
+
+a.black:link {
+    color: #000000;
+    text-decoration: none;
+}
+
+a.black:visited {
+    text-decoration: none;
+    color: #000000;
+}
+
+a.black:hover {
+    text-decoration: none;
+    color: #ef2300;
+}
+
+a.black:active {
+    text-decoration: none;
+}
+
+a:link {
+    color: #FFF;
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #FFF;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ef2300;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+#yijia #xinwen {
+    height: 360px;
+    width: 1050px;
+    margin-top: 35px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #fcfcfc;
+}
+
+#yijia #xinwen #xinwenzi {
+    float: left;
+    height: 280px;
+    width: 420px;
+    margin-top: 40px;
+    margin-left: 80px;
+    font-family: "微软雅黑";
+    font-size: 13px;
+    color: #000;
+    line-height: 39px;
+}
+
+#yijia #dibu {
+    background-color: #021091;
+    height: 80px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+#yijia #dibu #dibuzhongbu {
+    height: 80px;
+    width: 1050px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: "微软雅黑";
+    font-size: 12px;
+    color: #FFF;
+}
+
+.adazi {
+    font-family: "微软雅黑";
+    font-size: 48px;
+    color: #FFF;
+}
